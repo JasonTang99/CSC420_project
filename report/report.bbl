@@ -1,0 +1,562 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Yang2019}{article}{}
+    \name{author}{6}{}{%
+      {{hash=YW}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Wenming},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Xuechen},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=TY}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={Yapeng},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=XJH}{%
+         family={Xue},
+         familyi={X\bibinitperiod},
+         given={Jing\bibnamedelima Hao},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=LQ}{%
+         family={Liao},
+         familyi={L\bibinitperiod},
+         given={Qingmin},
+         giveni={Q\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Institute of Electrical}%
+      {Electronics Engineers Inc.}%
+    }
+    \keyw{Single image super-resolution,deep learning,neural networks,objective
+  function}
+    \strng{namehash}{YWZXTYWWXJHLQ1}
+    \strng{fullhash}{YWZXTYWWXJHLQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Single image super-resolution (SISR) is a notoriously challenging ill-posed
+  problem that aims to obtain a high-resolution output from one of its
+  low-resolution versions. Recently, powerful deep learning algorithms have
+  been applied to SISR and have achieved state-of-the-art performance. In this
+  survey, we review representative deep learning-based SISR methods and group
+  them into two categories according to their contributions to two essential
+  aspects of SISR: The exploration of efficient neural network architectures
+  for SISR and the development of effective optimization objectives for deep
+  SISR learning. For each category, a baseline is first established, and
+  several critical limitations of the baseline are summarized. Then,
+  representative works on overcoming these limitations are presented based on
+  their original content, as well as our critical exposition and analyses, and
+  relevant comparisons are conducted from a variety of perspectives. Finally,
+  we conclude this review with some current challenges and future trends in
+  SISR that leverage deep learning algorithms.%
+    }
+    \verb{doi}
+    \verb 10.1109/TMM.2019.2919431
+    \endverb
+    \verb{eprint}
+    \verb 1808.03344
+    \endverb
+    \field{issn}{19410077}
+    \field{number}{12}
+    \field{pages}{3106\bibrangedash 3121}
+    \field{title}{{Deep Learning for Single Image Super-Resolution: A Brief
+  Review}}
+    \verb{url}
+    \verb https://arxiv.org/abs/1808.03344v3
+    \endverb
+    \field{volume}{21}
+    \verb{file}
+    \verb :C\$\backslash\$:/Users/Adam/AppData/Local/Mendeley Ltd./Mendeley Des
+    \verb ktop/Downloaded/Yang et al. - 2019 - Deep Learning for Single Image S
+    \verb uper-Resolution A Brief Review.pdf:pdf
+    \endverb
+    \field{journaltitle}{IEEE Transactions on Multimedia}
+    \field{eprinttype}{arXiv}
+    \field{month}{12}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Ledig2017}{inproceedings}{}
+    \name{author}{11}{}{%
+      {{hash=LC}{%
+         family={Ledig},
+         familyi={L\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TL}{%
+         family={Theis},
+         familyi={T\bibinitperiod},
+         given={Lucas},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Husz{\'{a}}r},
+         familyi={H\bibinitperiod},
+         given={Ferenc},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Caballero},
+         familyi={C\bibinitperiod},
+         given={Jose},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Cunningham},
+         familyi={C\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Acosta},
+         familyi={A\bibinitperiod},
+         given={Alejandro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Aitken},
+         familyi={A\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Tejani},
+         familyi={T\bibinitperiod},
+         given={Alykhan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Totz},
+         familyi={T\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Zehan},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Wenzhe},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Institute of Electrical}%
+      {Electronics Engineers Inc.}%
+    }
+    \strng{namehash}{LCTLHFCJCAAAAATATJWZSW1}
+    \strng{fullhash}{LCTLHFCJCAAAAATATJWZSW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Despite the breakthroughs in accuracy and speed of single image
+  super-resolution using faster and deeper convolutional neural networks, one
+  central problem remains largely unsolved: how do we recover the finer texture
+  details when we super-resolve at large upscaling factors? The behavior of
+  optimization-based super-resolution methods is principally driven by the
+  choice of the objective function. Recent work has largely focused on
+  minimizing the mean squared reconstruction error. The resulting estimates
+  have high peak signal-to-noise ratios, but they are often lacking
+  high-frequency details and are perceptually unsatisfying in the sense that
+  they fail to match the fidelity expected at the higher resolution. In this
+  paper, we present SRGAN, a generative adversarial network (GAN) for image
+  superresolution (SR). To our knowledge, it is the first framework capable of
+  inferring photo-realistic natural images for 4\texttimes{} upscaling factors.
+  To achieve this, we propose a perceptual loss function which consists of an
+  adversarial loss and a content loss. The adversarial loss pushes our solution
+  to the natural image manifold using a discriminator network that is trained
+  to differentiate between the super-resolved images and original
+  photo-realistic images. In addition, we use a content loss motivated by
+  perceptual similarity instead of similarity in pixel space. Our deep residual
+  network is able to recover photo-realistic textures from heavily downsampled
+  images on public benchmarks. An extensive mean-opinion-score (MOS) test shows
+  hugely significant gains in perceptual quality using SRGAN. The MOS scores
+  obtained with SRGAN are closer to those of the original high-resolution
+  images than to those obtained with any state-of-the-art method.%
+    }
+    \field{booktitle}{Proceedings - 30th IEEE Conference on Computer Vision and
+  Pattern Recognition, CVPR 2017}
+    \verb{doi}
+    \verb 10.1109/CVPR.2017.19
+    \endverb
+    \verb{eprint}
+    \verb 1609.04802
+    \endverb
+    \field{isbn}{9781538604571}
+    \field{pages}{105\bibrangedash 114}
+    \field{title}{{Photo-realistic single image super-resolution using a
+  generative adversarial network}}
+    \verb{url}
+    \verb https://arxiv.org/abs/1609.04802v5
+    \endverb
+    \field{volume}{2017-January}
+    \verb{file}
+    \verb :C\$\backslash\$:/Users/Adam/AppData/Local/Mendeley Ltd./Mendeley Des
+    \verb ktop/Downloaded/Ledig et al. - 2017 - Photo-realistic single image su
+    \verb per-resolution using a generative adversarial network.pdf:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{month}{11}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Hui2018}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HJ}{%
+         family={Hui},
+         familyi={H\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ1}
+    \strng{fullhash}{HJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Medium}
+    \field{title}{{GAN -- Super Resolution GAN (SRGAN)}}
+    \verb{url}
+    \verb https://jonathan-hui.medium.com/gan-super-resolution-gan-srgan-b471da
+    \verb 7270ec
+    \endverb
+    \field{year}{2018}
+    \field{urlday}{19}
+    \field{urlmonth}{12}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{Tsang2018}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TSh}{%
+         family={Tsang},
+         familyi={T\bibinitperiod},
+         given={Sik-ho},
+         giveni={S\bibinithyphendelim h\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TSh1}
+    \strng{fullhash}{TSh1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Towards Data Science}
+    \field{title}{{Review: ResNet -- Winner of ILSVRC 2015 (Image
+  Classification, Localization, Detection)}}
+    \verb{url}
+    \verb https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-im
+    \verb age-classification-localization-detection-e39402bfa5d8
+    \endverb
+    \field{year}{2018}
+    \field{urlday}{19}
+    \field{urlmonth}{12}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{Tsang2020}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TSh}{%
+         family={Tsang},
+         familyi={T\bibinitperiod},
+         given={Sik-ho},
+         giveni={S\bibinithyphendelim h\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TSh1}
+    \strng{fullhash}{TSh1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Medium}
+    \field{title}{{Review: SRGAN {\&} SRResNet -- Photo-Realistic Super
+  Resolution (GAN {\&} Super Resolution)}}
+    \verb{url}
+    \verb https://sh-tsang.medium.com/review-srgan-srresnet-photo-realistic-sup
+    \verb er-resolution-gan-super-resolution-96a6fa19490
+    \endverb
+    \field{year}{2020}
+    \field{urlday}{19}
+    \field{urlmonth}{12}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{Kanska2017}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KK}{%
+         family={Ka{\'{n}}ska},
+         familyi={K\bibinitperiod},
+         given={Katarzyna},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KK1}
+    \strng{fullhash}{KK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{deepsense.ai}
+    \field{title}{{Using deep learning for Single Image Super Resolution}}
+    \verb{url}
+    \verb https://deepsense.ai/using-deep-learning-for-single-image-super-resol
+    \verb ution/
+    \endverb
+    \field{year}{2017}
+    \field{urlday}{19}
+    \field{urlmonth}{12}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{frégier2020mind2mind}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=FY}{%
+         family={Frégier},
+         familyi={F\bibinitperiod},
+         given={Yaël},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=GJB}{%
+         family={Gouray},
+         familyi={G\bibinitperiod},
+         given={Jean-Baptiste},
+         giveni={J\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FYGJB1}
+    \strng{fullhash}{FYGJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1906.11613
+    \endverb
+    \field{title}{Mind2Mind : transfer learning for GANs}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.LG}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Bae2020}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=BJ}{%
+         family={Bae},
+         familyi={B\bibinitperiod},
+         given={Juhan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Grosse},
+         familyi={G\bibinitperiod},
+         given={Roger},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Neural information processing systems foundation}%
+    }
+    \strng{namehash}{BJGR1}
+    \strng{fullhash}{BJGR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Hyperparameter optimization of neural networks can be elegantly formulated
+  as a bilevel optimization problem. While research on bilevel optimization of
+  neural networks has been dominated by implicit differentiation and unrolling,
+  hypernetworks such as Self-Tuning Networks (STNs) have recently gained
+  traction due to their ability to amortize the optimization of the inner
+  objective. In this paper, we diagnose several subtle pathologies in the
+  training of STNs. Based on these observations, we propose the
+  {\$}\backslashDelta{\$}-STN, an improved hypernetwork architecture which
+  stabilizes training and optimizes hyperparameters much more efficiently than
+  STNs. The key idea is to focus on accurately approximating the best-response
+  Jacobian rather than the full best-response function; we achieve this by
+  reparameterizing the hypernetwork and linearizing the network around the
+  current parameters. We demonstrate empirically that our
+  {\$}\backslashDelta{\$}-STN can tune regularization hyperparameters (e.g.
+  weight decay, dropout, number of cutout holes) with higher accuracy, faster
+  convergence, and improved stability compared to existing approaches.%
+    }
+    \field{booktitle}{34th Conference on Neural Information Processing Systems
+  (NeurIPS 2020)}
+    \verb{eprint}
+    \verb 2010.13514
+    \endverb
+    \field{title}{{Delta-STN: Efficient Bilevel Optimization for Neural
+  Networks using Structured Response Jacobians}}
+    \verb{url}
+    \verb http://arxiv.org/abs/2010.13514
+    \endverb
+    \list{location}{1}{%
+      {Vancouver, Canada}%
+    }
+    \verb{file}
+    \verb :C\$\backslash\$:/Users/Adam/AppData/Local/Mendeley Ltd./Mendeley Des
+    \verb ktop/Downloaded/Bae, Grosse - 2020 - Delta-STN Efficient Bilevel Opti
+    \verb mization for Neural Networks using Structured Response Jacobians.pdf:
+    \verb pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{month}{10}
+    \field{year}{2020}
+  \endentry
+
+  \entry{SonGitHub}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=SD}{%
+         family={Son},
+         familyi={S\bibinitperiod},
+         given={Donghee},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={Seobin},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDPS1}
+    \strng{fullhash}{SDPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{GitHub}
+    \field{title}{{dongheehand/SRGAN-PyTorch: SRGAN (Photo-Realistic Single
+  Image Super-Resolution Using a Generative Adversarial Network) implementation
+  using PyTorch framework}}
+    \verb{url}
+    \verb https://github.com/dongheehand/SRGAN-PyTorch
+    \endverb
+    \field{urlday}{19}
+    \field{urlmonth}{12}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{10.1007/978-3-319-95957-3_50}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=XF}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Fengchi},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=YZ}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Zifei},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=XG}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={Gang},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zuo},
+         familyi={Z\bibinitperiod},
+         given={Wangmeng},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{4}{}{%
+      {{hash=HDS}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={De-Shuang},
+         giveni={D\bibinithyphendelim S\bibinitperiod},
+      }}%
+      {{hash=GMM}{%
+         family={Gromiha},
+         familyi={G\bibinitperiod},
+         given={M.\bibnamedelima Michael},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={Kyungsook},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hussain},
+         familyi={H\bibinitperiod},
+         given={Abir},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer International Publishing}%
+    }
+    \strng{namehash}{XFYZXGZKZW1}
+    \strng{fullhash}{XFYZXGZKZW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In many practical scenarios, the images to be super-resolved are not only
+  of low resolution (LR) but also JPEG compressed, while most of the existing
+  super-resolution methods assume compression free LR image inputs. As a
+  result, the JPEG compression artifacts (e.g., blocking artifacts) are often
+  exacerbated in the super-resolved images, leading to unpleasant visual
+  results. In this paper, we address this problem via learning a deep residual
+  convolutional neural network (CNN) that exploits a skips-in-skip connection.
+  More specifically, by increasing the network depth to 31 layers with
+  receptive field of 63 by 63, we train a single CNN model which is able to
+  handle JPEG image super-resolution with various combinations of scale and
+  quality factors, as well as the extreme cases, i.e., image super-resolution
+  with multiple scale factors, and JPEG image deblocking with different quality
+  factors. Our extensive experimental results demonstrate that the proposed
+  deep model can not only yield high resolution (HR) images that are visually
+  more pleasant than those state-of-the-art deblocking and super-resolution
+  methods in a cascaded manner, but also deliver very competitive results with
+  the state-of-the-art super-resolution methods and JPEG deblocking methods in
+  terms of quantitative and qualitative measures.%
+    }
+    \field{booktitle}{Intelligent Computing Methodologies}
+    \field{isbn}{978-3-319-95957-3}
+    \field{pages}{472\bibrangedash 483}
+    \field{title}{JPEG Image Super-Resolution via Deep Residual Network}
+    \list{location}{1}{%
+      {Cham}%
+    }
+    \field{year}{2018}
+  \endentry
+\enddatalist
+\endinput
